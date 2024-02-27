@@ -1,2 +1,1 @@
-# SQL-Project-on-a-laptop-dataset
-This project includes cleaning, exploratory data analysis,feature engineering and data visualization of a dataset of 1250 laptops. The dataset was taken from kaggle.com
+Embark on a data-driven journey through the world of laptops with our comprehensive project. Leveraging a dataset comprising 1250 laptops sourced from Kaggle, we meticulously clean, explore, engineer features, and visualize data. From identifying trends to understanding key factors influencing performance, our project offers valuable insights for consumers, manufacturers, and tech enthusiasts alike.
